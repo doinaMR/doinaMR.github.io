@@ -1,1 +1,1 @@
-# doinaMR.io
+# doinaMR.github.io
